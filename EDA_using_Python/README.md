@@ -4,13 +4,6 @@ Exploratory Data Analysis on customer shopping behavior data using Python and Pa
 
 ---
 
-## Dataset
-
-**Source file:** [Dataset](Dataset)
-
-**Loaded into:** PostgreSQL → table `customer` in database `customer_behaviour_analysis`
-
----
 
 ## Steps Performed
 
