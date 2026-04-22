@@ -147,3 +147,9 @@ Subscription Status · Gender · Category · Shipping Type
 | PostgreSQL | Data storage & SQL analysis |
 | SQLAlchemy | Python–PostgreSQL connection |
 | Power BI | Interactive dashboard |
+
+---
+
+## Conclusion
+
+This project delivered a full-cycle analysis of customer shopping behavior. EDA ensured clean, well-structured data with meaningful features like age groups and purchase frequency. SQL queries revealed key patterns — discount users consistently spend above average, repeat buyers are more likely to subscribe, and **Clothing** dominates across all categories. Power BI made these findings accessible visually, confirming that revenue is evenly spread across age groups with Young Adults slightly ahead. The most critical takeaway: **73% of customers remain non-subscribers**, representing a major untapped opportunity for targeted retention and subscription-conversion strategies.
